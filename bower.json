@@ -1,0 +1,29 @@
+{
+  "name": "taaabs-sparelnc",
+  "version": "1.0.0",
+  "description": "`<taaabs-sparelnc>` is a Polymer Customs Elements that is loading the SPARE LNC application into Taaabs.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-sparelnc.git"
+  },
+  "main": "taaabs-sparelnc.html",
+  "license": "https://github.com/TaaabsElements/taaabs-sparelnc/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "taaabs-import-external-module-behavior": "https://github.com/TaaabsElements/taaabs-import-external-module-behavior.git",
+    "sparelnc": "https://github.com/liris-tweak/SPARE-LNC.git#v0.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
